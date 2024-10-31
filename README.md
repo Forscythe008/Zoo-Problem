@@ -1,4 +1,1 @@
-# Zoo-Problem
-Module 5 Assignment
-
-Ronald Querubin
+This is the guided html exercise in module 5.
